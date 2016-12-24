@@ -1,0 +1,19 @@
+
+.main {
+  position: relative;
+  z-index: 2;
+  border-top: 1px solid #e6e6e6;
+}
+
+.normal {
+  margin: 0 0 0 30px;
+  padding: 0;
+  list-style: none;
+}
+
+.error {
+  padding: 40px;
+  text-align: center;
+  font-size: 30px;
+  color: rgba(175, 47, 47, 0.6);
+}
