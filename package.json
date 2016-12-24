@@ -1,8 +1,8 @@
 {
-  "name": "frontend-boilerplate",
+  "name": "forecast",
   "version": "1.0.0",
   "private": true,
-  "description": "A boilerplate of things that shouldn't exist",
+  "description": "Sample code for weather forecast based on cities",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
